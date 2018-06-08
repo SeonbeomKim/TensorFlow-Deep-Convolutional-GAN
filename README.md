@@ -1,2 +1,4 @@
 # TensorFlow-Deep-Convolutional-GAN
-(DC-GAN)Deep Convolutional Generative Adversarial Network
+(DCGAN)Deep Convolutional Generative Adversarial Network
+
+https://arxiv.org/abs/1511.06434
