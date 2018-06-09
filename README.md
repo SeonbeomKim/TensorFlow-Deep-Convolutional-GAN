@@ -3,7 +3,7 @@
 
 DCGAN = vanilla GAN + CNN Network + Batch Normalization
 
-DCGAN paper : https://arxiv.org/abs/1511.06434
+DCGAN paper : https://arxiv.org/abs/1511.06434  
 Batch Normalization paper : https://arxiv.org/abs/1502.03167
 
 
