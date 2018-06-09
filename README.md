@@ -1,6 +1,6 @@
 # TensorFlow-Deep-Convolutional-GAN
 
-(DCGAN)Deep Convolutional Generative Adversarial Network
+(DCGAN)Deep Convolutional Generative Adversarial Network  
 (c-DCGAN)Conditional Deep Convolutional Generative Adversarial Network
 
 DCGAN = vanilla GAN + CNN Network + Batch Normalization
