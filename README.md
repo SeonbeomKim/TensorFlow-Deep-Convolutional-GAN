@@ -12,7 +12,7 @@ Batch Normalization paper : https://arxiv.org/abs/1502.03167
         * dataset : MNIST
       
     * Conditional-DCGAN-mnist.py
-        * DCGAN 모델을 이용하여 원하는 target의 이미지 
+        * DCGAN 모델을 이용하여 원하는 target의 이미지 생성
         * dataset : MNIST
         
 
