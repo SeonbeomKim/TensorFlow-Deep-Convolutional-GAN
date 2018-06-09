@@ -18,8 +18,8 @@ Conditional-GAN paper : https://arxiv.org/pdf/1411.1784.pdf
         * dataset : MNIST
         
 
-## DCGAN-mnist.py result (after 12 epoch)
+## DCGAN-mnist.py result (after 12 epochs of training)
 ![DCGAN-mnist.py](./generate/12.png)
 
-## Conditional-DCGAN-mnist.py result (after 2 epoch)
+## Conditional-DCGAN-mnist.py result (after 2 epochs of training)
 ![Conditional-DCGAN-mnist.py](./Conditional-generate/2.png)
